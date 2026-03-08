@@ -1,6 +1,7 @@
 [project]
 name = "rag-tutorial"
 version = "0.1.0"
+requires-python = ">=3.12" 
 description = "A RAG tutorial using Groq, LangChain, and Gradio"
 dependencies = [
     "pandas",
@@ -10,7 +11,13 @@ dependencies = [
     "gradio",
     "python-dotenv",
     "ipykernel",
-]
+    "sentence-transformers",
+    "datasets",
+    "scikit-learn",
+    "matplotlib",
+    "plotly",
+    ]
+    
 
 [tool.uv]
 dev-dependencies = [
