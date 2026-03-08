@@ -34,3 +34,12 @@ Open the .env file and paste your Groq key:
 ```text
 groq_api_keys=your_gsk_key_here
 ```
+
+### 5. Launch the Tutorial
+To ensure Jupyter uses the correct environment and avoids "Package Not Found" errors, launch the notebook using this specific command:
+
+```bash
+uv run --with jupyter jupyter notebook tutorial.ipynb
+```
+
+
