@@ -1,0 +1,18 @@
+[project]
+name = "rag-tutorial"
+version = "0.1.0"
+description = "A RAG tutorial using Groq, LangChain, and Gradio"
+dependencies = [
+    "pandas",
+    "langchain-groq",
+    "langchain-huggingface",
+    "langchain-chroma",
+    "gradio",
+    "python-dotenv",
+    "ipykernel",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "jupyter",
+]
