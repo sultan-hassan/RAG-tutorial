@@ -45,3 +45,4 @@ Crucial: Never hardcode your API key in app.py. Hugging Face provides a secure w
 - Once finished, your AI will be live!
 
 
+### Once deployed, you should see a similar RAG app like this: https://huggingface.co/spaces/sultan-hassan/RAG-tutorial-light
