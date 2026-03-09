@@ -24,7 +24,7 @@ data = ds["test"]["abstract"][:20] # take first examples
 
 
 # 1. Initialize the Embedding Model (Converts text to math)
-embed_model = HuggingFaceEmbeddings(model_name="mixedbread-ai/mxbai-embed-large-v1")
+embed_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # 2. Create and Populate Vector Store
 vectorstore = Chroma(
