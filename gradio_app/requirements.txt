@@ -1,0 +1,7 @@
+huggingface_hub
+langchain_groq
+langchain_huggingface
+langchain_chroma
+langchain_core
+gradio
+sentence-transformers
