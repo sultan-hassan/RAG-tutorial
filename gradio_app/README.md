@@ -5,13 +5,13 @@ Want to share your Astronomy AI with the world? You can host this app for free o
 
 ## 🛰️ Step 1: Create your Space
 
-1- Login to Hugging Face.
-2- Click on your profile picture (top right) and select "New Space".
-3- Space Name: Give it a cool name (e.g., cosmic-insight-ai).
-4- SDK: Select Gradio.
-5- Space Hardware: Choose "CPU Basic (Free)".
-6- Visibility: Public.
-7- Click "Create Space".
+- Login to Hugging Face.
+- Click on your profile picture (top right) and select "New Space".
+- Space Name: Give it a cool name (e.g., cosmic-insight-ai).
+- SDK: Select Gradio.
+- Space Hardware: Choose "CPU Basic (Free)".
+- Visibility: Public.
+- Click "Create Space".
 
 
 ## 📂 Step 2: Upload your Files
